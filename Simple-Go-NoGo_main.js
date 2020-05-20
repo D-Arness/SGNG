@@ -2,7 +2,7 @@
 var timeline = [];
 
 /* define the site that hosts stimuli images*/
-var repo_site = "https://D-Arness.github.io/Simple-Go-NoGo-Task/";
+var repo_site = "https://D-Arness.github.io/SGNG/";
 
 /* define welcome message trial */
 var welcome = {
